@@ -1,6 +1,8 @@
-## Hi there friends <img src="assets/hello.gif" width="28px" alt="hi">
+<!-- ## Hi there friends <img src="assets/hello.gif" width="28px" alt="hi"> -->
 
-I'm Mijanur Rahaman, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
+
+
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm Mijanur Rahaman, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. 🐍 ☁️ </samp></h4>
 
 :coffee: &emsp;Connect with me!
 
