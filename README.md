@@ -1,4 +1,4 @@
-<img style="height=720px; width:1080px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjIzOGQwOTRmYmMxNzg2ZGFiYmJjZTAzNGE0ZTU4NjY2OTA3ZjgzYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjIzOGQwOTRmYmMxNzg2ZGFiYmJjZTAzNGE0ZTU4NjY2OTA3ZjgzYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 <h4><samp> Hi there <img src="assets/hello.gif" width="28px" alt="hi"> welcome to my Github! I'm Mijanur Rahaman, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. 🐍 ☁️ </samp></h4>
 
 :muscle:&emsp;<samp>**Strenth!**</samp></br>
